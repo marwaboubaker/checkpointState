@@ -1,0 +1,22 @@
+.sect{
+    z-index: 1;
+  display: flex;
+  position: sticky;
+  top: 0;
+  background: red;
+  justify-content: space-around;
+  padding: 0 20px;
+  align-items: center;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+}
+#img {
+    width: 40vw;
+    border-radius: 50%;
+  }
+  #section2{
+      padding: 30px;
+      margin-left: 200px;
+      margin-right: 30px;
+      margin-top: 100px;
+      margin-bottom: 100px;
+  }
